@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0.1",
+  "version": "1.0.0.2",
   "files": [
     {
-      "name": "1.0.0.1.zip"
+      "name": "1.0.0.2.zip"
     }
   ],
   "downloadBaseUrl": "https://raw.githubusercontent.com/22143fd2/levishax-internal-ob49/main/release"
